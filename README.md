@@ -4,7 +4,7 @@
 
 The AdminLTE was updated version to 2.4.5.
 
-The CakePHP was updated version compatible to 3.7.0.
+The CakePHP was updated version compatible to 4.0.x.
 
 This release 1.1.0 is can be considered the stable version, as indicated in the [SemVer.org](https://semver.org/) recommendations.
 
@@ -13,7 +13,7 @@ This release 1.1.0 is can be considered the stable version, as indicated in the 
 You can install using [composer](http://getcomposer.org).
 
 ```
-composer require maiconpinto/cakephp-adminlte-theme
+composer require barelab/cakephp-adminlte-theme
 ```
 
 ### Enable Plugin
